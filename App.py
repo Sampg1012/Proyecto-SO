@@ -3,7 +3,7 @@ from tkinter import messagebox
 import tkinter as tk
 
 # ─── Configuración de tema ───────────────────────────────────────────────────
-ctk.set_appearance_mode("dark")
+ctk.set_appearance_mode("system")
 ctk.set_default_color_theme("blue")
 
 # ─── Algoritmos de Reemplazo de Páginas ──────────────────────────────────────
@@ -139,7 +139,7 @@ class SimuladorApp(ctk.CTk):
             self,
             text="FIFO  ·  Óptimo  ·  LRU",
             font=ctk.CTkFont(size=13),
-            text_color="#7EB8F7",
+            text_color="#3B91ED",
         )
         subtitulo.pack(pady=(0, 15))
 

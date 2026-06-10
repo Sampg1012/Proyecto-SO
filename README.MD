@@ -1,1 +1,1 @@
-Codigo para el proyecto de sistemas operativos.
+Codigo para el proyecto de sistemas operativos, que hizo Gemini
